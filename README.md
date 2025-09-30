@@ -1,2 +1,4 @@
 # GitHub-dating
-meet your lover
+Use this repo to make PRs to find your next lover.
+
+
